@@ -1,8 +1,8 @@
 Hello
 
 
-while noSucess:
-      tryAgain()
+      while noSucess:
+            tryAgain()
       
-      if dead:
-          break
+            if dead:
+                  break
