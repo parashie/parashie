@@ -1,5 +1,3 @@
-Hello
-
 
       while noSucess:
             tryAgain()
