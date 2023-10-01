@@ -2,5 +2,5 @@
       while noSucess:
             tryAgain()
       
-            if dead:
-                  break
+            if failure:
+                  switchMajor()
